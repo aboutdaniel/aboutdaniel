@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-BORN IN ITALY WITH AN EXTREME DESIRE TO KNOW THE WORLD.
-BORN TO BE A SMILING DREAMER.
-LOVE MAKING DOPE STUFF.
+Hey, my name is Daniel. I'm a creative web developer based in Italy.
+I'm born with an extreme desire to know the world :)
 
 <!--
 **aboutdaniel/aboutdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
