@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, my name is Daniel. I'm a creative web developer based in Italy.
+Hey, my name is Daniel. I'm a creative frontend developer based in Italy.
 I'm born with an extreme desire to know the world :)
 
 <!--
